@@ -63,15 +63,11 @@ If you want to use AWS-specific icons, you will need to:
 
 #### 2.1 **Save to Device or Cloud Storage**
 
-* Once you've finished designing your AWS architecture diagram:
+* **Save the progress**:
 
-  * Go to **File** > **Save As**.
-  * If you chose **Device**:
-
-    * Select a location on your computer and give your diagram a name (e.g., `AWS_Architecture_v1.drawio`).
-  * If you chose **Google Drive/OneDrive/Dropbox**:
-
-    * The diagram will automatically save to the cloud storage location you selected earlier.
+  1. Open **Google Drive** in your web browser ([drive.google.com](https://drive.google.com)).
+  2. Locate the doc1 file.
+  3. Right-click on the file and select **Remove**. This will move the file to the **Trash**.
 
 #### 2.2 **Export and Delete the Diagram (From Google Drive)**
 
@@ -81,13 +77,6 @@ If you want to use AWS-specific icons, you will need to:
   2. Choose the file format (e.g., **PNG**, **PDF**, **JPEG**).
   3. Adjust any settings (e.g., transparency, size, or margins).
   4. Click **Export** and save the file to your device.
-
-* **Save the progress**:
-
-  1. Open **Google Drive** in your web browser ([drive.google.com](https://drive.google.com)).
-  2. Locate the doc1 file.
-  3. Right-click on the file and select **Remove**. This will move the file to the **Trash**.
-
 
 
 #### 2.3 **Version Control (Optional)**
