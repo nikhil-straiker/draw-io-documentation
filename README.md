@@ -69,36 +69,14 @@ Example:
 
 ---
 
-#### **📊 Task Status Log**
 
-Create a **table** to log task status:
-
-| Task Name        | Owner   | Start Date | Due Date | Status      | Notes               |
-| ---------------- | ------- | ---------- | -------- | ----------- | ------------------- |
-| Homepage Design  | Alice   | Sep 15     | Sep 25   | Completed   | Approved by manager |
-| Content Creation | Bob     | Sep 26     | Oct 5    | In Progress | Draft in review     |
-| Beta Testing     | QA Team | Oct 6      | Oct 12   | Not Started | Scheduled to begin  |
-
-> You can create this table by going to **Insert > Table** and selecting the number of rows/columns needed.
-
----
-
-#### **🔜 Next Steps**
-
-Write a short paragraph outlining what comes next.
-
-Example:
-
-> In the next phase, we will finalize all remaining content, initiate beta testing, and begin gathering user feedback. Weekly review meetings will be held to track progress and resolve blockers.
-
----
 
 ### **5. Save & Organize the Document in Google Drive**
 
 * **Save the progress**:
 
   1. Open **Google Drive** in your web browser ([drive.google.com](https://drive.google.com)).
-  2. Locate the doc1 file.
-  3. Right-click on the file and select **Remove**. This will move the file to the **Trash**.
+  2. Locate and **remove** all the files that have ".pptx" extension or the files that are goolgle slides.
+ 
 
 
